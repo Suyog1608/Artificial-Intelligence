@@ -1,0 +1,25 @@
+Clustering vs. Classification
+
+    Classification uses predefined, human-created categories (supervised learning).
+    Clustering relies on the machine to discover its own groups within the data (unsupervised learning).
+
+Example: "Frequently Bought Together"
+
+    Online stores analyze purchasing patterns using unsupervised learning to suggest additional items. It creates clusters based on what people buy together.
+
+The Halloween Candy Analogy
+
+    Supervised learning: Son classifies candy using familiar categories with your guidance.
+    Unsupervised learning: Son creates his own clusters (size, color, even "perfume candy") when faced with unfamiliar Serbian candy.
+
+Advantages of Clustering
+
+    Works well with vast amounts of unlabeled data, where creating human categories is impractical.
+    Allows for the discovery of unexpected patterns that humans might miss.
+
+Applications of Clustering
+
+    Clustering customers to identify patterns and segment the market.
+    Companies like Amazon, Netflix, and Twitter leverage clustering to understand user behavior, preferences, and connections.
+
+Key Takeaway: Clustering offers a powerful tool for discovering patterns in data when predefined categories aren't available or when you seek insights beyond obvious classifications.

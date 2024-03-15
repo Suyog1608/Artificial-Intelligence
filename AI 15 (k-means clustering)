@@ -1,0 +1,24 @@
+KNN: Learning by Comparing Neighbors
+
+    Inspired by the real-world example of classifying unknown dog breeds by comparing them to known breeds.
+    
+    KNN is a supervised machine learning algorithm for multi-class classification (more than two possible categories).
+
+How KNN Works
+
+    Plotting Data: New data is plotted alongside existing, labeled data.
+
+    Features as Predictors: Key features (like weight, hair length) are chosen to classify data points.
+
+    Distance Calculation: Euclidean distance is a common method to calculate how close data points are to each other.
+
+    Finding Nearest Neighbors: The algorithm identifies the 'K' closest labeled neighbors to the new data point. (K is a user-defined number, like 5 in our example).
+
+    Classification by Majority: The new data point is classified based on the most common breed among its nearest neighbors (shepherd in the example).
+
+Key Points about KNN
+
+    The shorter the distance to neighbors, the more likely the classification is accurate.
+    K (the number of neighbors) is important to control - impact accuracy.
+
+    KNN is simple and powerful, with applications beyond animal classification into areas like finance.

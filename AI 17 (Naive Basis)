@@ -1,0 +1,33 @@
+Naive Bayes: Classifying Based on Multiple Features
+
+    A popular machine learning algorithm that assumes independence between predictors.
+
+Why "Naive"?
+
+    It treats each feature (predictor) as completely independent, even when they might be related in reality.
+
+Example: Dog Breed Classification
+
+    Classes: Terrier, Hound, Sport Dog
+
+    Predictors: Hair length, Height, Weight
+
+    Class Predictor Probability: Naive Bayes calculates the probability of the unknown dog belonging to each class based on each feature individually.
+
+How Naive Bayes Works
+
+    Training Data: Data with known classes and predictors is used.
+
+    Independent Probability Calculation: Probability is calculated for each feature's likelihood of indicating a specific class (e.g., 40% chance a dog with this hair length is a Terrier).
+
+    Overall Classification: The algorithm selects the class with the highest combined probability across all features.
+
+Applications of Naive Bayes
+
+    Fraud Detection: Banks analyze banking features (predictors) independently, calculating the probability of a fraudulent transaction.
+    
+    Cybersecurity: Security threats are flagged by assessing the likelihood of a threat based on various features.
+
+Key Takeaway
+
+    Naive Bayes' simplicity (assuming feature independence) makes it well-suited for tasks where the relationships between features are less important or unknown.

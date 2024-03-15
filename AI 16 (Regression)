@@ -1,0 +1,31 @@
+Regression Analysis: Understanding Trends
+
+    Example: A car sales company used seasonal patterns to predict vehicle type preferences.
+
+    Regression is a supervised machine learning algorithm that analyzes the relationship between predictors (like season) and an outcome (like vehicle sales).
+
+Key Concepts
+
+    Predictors/Independent Variables: Factors you believe influence the outcome (e.g., the month of the year).
+
+    Outcome: What you want to predict (e.g., sales of a specific vehicle type).
+
+    Trend Lines: Regression aims to find the best-fit line through plotted data, revealing the relationship between predictors and outcome.
+
+How Regression Works
+
+    Training Data: Labeled data with known outcomes is used.
+
+    Prediction vs. Outcome: The system makes predictions, which are compared to the real outcome in the training data.
+
+    Refinement: The process repeats to improve the accuracy of predictions.
+
+Applications of Regression
+
+    Retailers (like Walmart) use regression to predict buying trends and stock shelves accordingly (e.g., Pop-Tarts in summer).
+    
+    Companies can match product availability to peak customer interest.
+
+Debate: Is Regression True Machine Learning?
+
+    Some argue that regression is primarily about prediction, not learning new insights.
