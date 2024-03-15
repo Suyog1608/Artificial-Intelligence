@@ -1,0 +1,40 @@
+Problem Definition
+
+    Goal: Classify images as "dog" or "not dog."
+
+    Type: Binary classification (two categories)
+
+    Approach: Supervised machine learning with labeled training data.
+
+Algorithm Selection
+
+    Standard Algorithms: K-Nearest Neighbor or Naive Bayes could work.
+    
+    Neural Network: Chosen due to the complexity of image data, requiring an artificial neural network.
+
+Neural Network Setup
+
+    Structure: Input layer (image pixels), hidden layers, and output layer with two nodes (dog/not dog).
+
+    Initialization: Weights are randomly assigned, biases are set to zero.
+
+Training Process
+
+    Feeding the Data: The labeled training set is used.
+
+    Early Guesses: Initially, predictions are not much better than random.
+
+    Error Calculation: The network compares its prediction to the correct label.
+
+    Adjustments: Gradient descent determines how much to change weights and biases.
+
+    Backpropagation: Errors are propagated backwards, 'tuning' the network to reduce the cost function.
+
+Testing
+
+    Unlabeled Data: The test set is used to measure the network's performance on new, unseen images.
+
+    Overfitting Check: A huge accuracy difference between training and testing sets can indicate overfitting.
+
+
+Key Takeaway: This process involves choosing the right approach, setting up the network, training with labeled data, and testing on new data. Adjustments and refinements may be needed for optimal results.
