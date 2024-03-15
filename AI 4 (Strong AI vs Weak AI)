@@ -1,0 +1,22 @@
+Strong AI vs. Weak AI
+
+Philosopher John Searle proposed two categories of AI:
+
+    Strong AI: Machines that mimic the full range of human intelligence – emotions, humor, sense of purpose. This is the realm of sci-fi characters (C-3PO, Commander Data).
+
+    Weak AI: Machines confined to narrow tasks (Siri, image sorting). Most current AI development focuses on this type.
+
+
+The Limitations of Symbolic Systems (and Early AI)
+
+    Expert systems in the 70s/80s were a form of weak AI. Designed to follow expert-defined steps for problem-solving, like medical diagnosis.
+
+    While appearing intelligent, they are essentially pattern matching based on programmed responses (like Searle's Chinese Room).
+
+    These faced issues with combinatorial explosion (too many patterns to manage).
+
+The Legacy of Symbolic Systems
+
+    Despite limitations, symbolic systems laid groundwork for AI.
+    
+    The term GOFAI ("Good Old-Fashioned AI") is still used to describe them.
