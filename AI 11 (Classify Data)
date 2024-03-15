@@ -1,0 +1,31 @@
+Humans and Data Classification
+
+    We naturally classify information (e.g., organizing files, separating contacts) for better organization.
+
+    Businesses have similar needs (sorting customers by frequency, spending habits, etc.).
+
+Binary Classification in Machine Learning
+
+    It's a popular supervised learning method with two possible outcomes (yes/no, fraud/not fraud, spam/not spam).
+
+    Supervised learning requires a labeled training dataset to teach the system how to classify data.
+
+Examples of Binary Classification
+
+    Credit card fraud detection: Systems learn to identify fraudulent transactions based on a training set.
+
+    Spam filtering: Networks are trained on examples of spam messages for future filtering.
+
+Data Scientists' Role
+
+    They define the categories for classification (e.g., fraud, spam).
+
+    The AI system classifies data into these human-created categories based on its training.
+
+Challenges of Classification
+
+    Requires significant upfront investment to obtain and label a large training dataset.
+
+    Accuracy may initially be low, requiring continuous refinement of the training set.
+    
+    This explains why systems like fraud detection might sometimes generate false positives.

@@ -1,0 +1,23 @@
+Robotics: Bringing AI into the Physical World
+
+    Robotics focuses on machines performing physical tasks (manufacturing, deliveries, self-driving vehicles).
+
+    Historically, robots were highly specialized and limited in their capabilities.
+
+Robotics + Machine Learning = Increased Adaptability
+
+    Combining robotics with machine learning allows machines to adapt to environments and learn new tasks.
+
+    Example: Self-driving cars use machine learning and sensors to navigate complex road situations, recognizing different objects and scenarios.
+
+    Training the AI network with data is crucial, hence the need for human supervision initially.
+
+Data vs. Simple Mechanics in Self-Driving Cars
+
+    Google emphasizes the data challenge in self-driving cars: making the right driving decisions, not just the mechanics of steering.
+
+Two Approaches in Robotics
+
+    Some robots still rely on traditional "good old-fashioned AI" (symbolic reasoning, pre-programming), like the Roomba.
+    
+    This approach is common where errors in the physical world carry a high cost (e.g., a robot handling medication).

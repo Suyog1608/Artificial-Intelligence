@@ -1,0 +1,19 @@
+Machine Learning Strategies: Mimicking Human Learning
+
+    Supervised Learning: Similar to having a tutor, the machine is given "labeled" data – examples with correct answers provided. This guides the system's learning.
+
+    Unsupervised Learning: Resembles observing in the park. The machine analyzes "unlabeled" data without answers, seeking patterns on its own.
+
+Pros and Cons
+
+    Supervised: Requires knowledgeable input for labeling data. Can be very efficient in learning specific tasks.
+
+    Unsupervised: Needs vast amounts of data to identify patterns. Less reliant on expert input but may uncover unexpected insights.
+
+Applications for Businesses
+
+    Supervised example: Identifying high-spending customers on Amazon. The company labels past customers, allowing the system to find patterns associated with that behavior.
+    
+    Unsupervised example: Discovering a link between chessboard purchases and later buying high-end appliances. This pattern could be used for targeted advertising.
+
+Key Takeaway: Both supervised and unsupervised learning offer valuable ways to extract insights from data, each with its own strengths and ideal applications.
