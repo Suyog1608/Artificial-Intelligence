@@ -1,0 +1,23 @@
+Analogy: The Preschool Nap Rule
+
+    A child strictly follows the rule of showering/brushing teeth before napping, even in inappropriate contexts (preschool).
+    
+    Just as with machine learning models, overly simple rules fail to generalize well to new situations.
+
+Overfitting vs. Underfitting in Machine Learning
+
+    Underfitting: The model is too simple. It captures too little of the training data's patterns, leading to poor predictions on unseen data. (Like the basic nap rule)
+
+    Overfitting:  The model is too complex. It becomes too closely tied to the training data's unique details, making it less adaptable to new data. (Like the nap rule with too many variables)
+
+Example: Home Value Estimation
+
+    A model with a few basic predictors (e.g., size, location) is likely to underfit, as housing data has high variance.
+
+    Adding many more predictors (e.g., view quality, appliances) risks overfitting, making the model overly complex.
+
+The Challenge of Finding Balance
+
+    Data scientists must strike a balance between oversimplification (underfitting) and excessive complexity (overfitting).
+
+    The goal is to give the model enough complexity to make good predictions without becoming too specific to the training data.

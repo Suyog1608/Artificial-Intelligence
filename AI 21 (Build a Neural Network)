@@ -1,0 +1,27 @@
+Artificial Neural Networks (ANNs): Mimicking the Brain
+
+    ANNs are a machine learning type structured like the human brain, using layers of neurons.
+    
+    Deep Learning ANNs have many hidden layers, enabling them to find complex patterns in large datasets.
+
+Image Classification Example: Dog or Not Dog
+
+    Task: Binary classification of an image as containing a dog or not.
+
+    Input Layer: Image is broken down into pixels (e.g., 25x25 pixels = 625 input neurons)
+
+    Hidden Layers:
+        Neurons each have an activation function, deciding whether to pass data forward.
+        Data moves through multiple hidden layers for pattern analysis.
+
+        Output Layer: In this case, two neurons: 'dog' and 'not dog'.
+
+Feedforward Neural Networks
+
+    Data moves from the input layer, through hidden layers, and to the output layer in a left-to-right motion.
+
+Self-tuning Capabilities
+
+    A key strength of ANNs is their ability to adjust themselves.
+
+    Supervised learning: The network tunes itself based on successful or unsuccessful identification.

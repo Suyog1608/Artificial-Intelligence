@@ -1,0 +1,27 @@
+The Challenge of Tuning an ANN
+
+    ANNs are self-tuning, but the process is complex, as they must balance bias and variance.
+
+    Adjusting weights to reduce variance can unintentionally shift the target (increase bias).
+    
+    Adding bias to correct the shift can in turn increase variance.
+
+Bias vs. Weights
+
+    Weights are applied to connections between neurons to adjust variance.
+
+    Bias is a number assigned to each individual neuron, shifting data to improve accuracy.
+
+The Frustration of Overfitting
+
+    ANNs are prone to overfitting, where they "overlearn" on training data and lose generalizability.
+
+    This increases the challenge of balancing bias and variance, as adjustments can have exaggerated effects.
+
+The Icy Road Analogy
+
+    Balancing bias and variance in an overfit network is like driving on an icy road: correcting for one can lead to sliding in the opposite direction.
+
+Key Takeaway: Why Bias is Added Later
+
+    Bias is added to the neuron after variance adjustment because only then can the system determine which direction to shift the "dartboard" for improved accuracy.

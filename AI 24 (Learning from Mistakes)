@@ -1,0 +1,27 @@
+Quantifying Wrongness: The Cost Function
+
+    Neural networks need to measure how wrong a prediction is, not just if it's right or wrong.
+
+    The cost function provides this measure. A higher cost means a more inaccurate prediction.
+
+Example: Dog vs. Cat vs. Mountain
+
+    Misidentifying a cat as a dog has a small cost.
+
+    Misidentifying a mountain as a dog has a much higher cost, signaling a need for greater adjustment.
+
+Gradient Descent: Correcting the Trajectory
+
+    Like adjusting the angle of a dart throw, gradient descent calculates how to tweak weights and biases based on the severity of the error.
+
+    The aim: Gradually 'descend' towards the optimal prediction.
+
+Backpropagation (Backprop)
+
+    A key innovation in neural networks.
+
+    With feedforward networks (data moving left to right), errors are propagated backwards for adjustment.
+
+    Backprop allows the network to apply gradient descent based on its calculated wrongness.
+    
+Key Takeaway: Gradient descent and backpropagation allow neural networks to precisely adjust their weights and biases in response to error, improving their accuracy over time.

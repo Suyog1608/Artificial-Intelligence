@@ -1,0 +1,23 @@
+Humans and Weights: The Dog Example
+
+    We instinctively apply weights (positive or negative) to features we see when making predictions.
+    Example: Dog is more likely in a grassy field (positive weight) than in a desert (negative weight).
+
+Artificial Neural Networks: Mimicking Our Approach
+
+    ANNs also use weights to create connections between neurons, allowing for nuanced adjustments of the model.
+
+Weights as Tuning Knobs
+
+    Think of weights like the tuning knobs on a guitar. They adjust the strength of the connections within the network.
+
+Structure of a Neural Network with Weights
+
+    Neurons in hidden layers are connected to every neuron in the subsequent layer.
+    Each connection has an associated weight (e.g., W1, W2...), adding a massive number of connections and weights.
+
+Supervised Learning Tunes the Weights
+
+    Similar to other supervised learning techniques, ANNs use training data to adjust weights for accurate predictions.
+    Weights are initially assigned randomly by the system.
+    Through training, the network iteratively refines the weights to find the "best tune" for predictions.
